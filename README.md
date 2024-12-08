@@ -1,7 +1,6 @@
-# A-Context-Aware-AI-Chatbot
+
 # LLM-Powered Chatbot
 
-🚀 **A Context-Aware AI Chatbot**
 
 ---
 
